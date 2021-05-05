@@ -1,2 +1,2 @@
-# New-iTC-website-template
-Repository template for iTCs creating their github.io website
+# NDiTC-website-documents
+Repository for the ND iTC github.io website.
